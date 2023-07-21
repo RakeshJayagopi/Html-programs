@@ -1,0 +1,36 @@
+<html>
+<head>
+
+<title>
+<b>Exercise1<b>
+</title>
+</head>
+
+<body>
+<h1>Example of HTML list</h1>
+<b>Unordered List</b>
+<ul>
+<li>Java</li>
+<li>PHP</li>
+<li>.net</li>
+</ul>
+
+<ul style= "list style-type:circle">
+
+<b>Ordered List</b>
+<ol>
+<ol type="1">
+<li>Java</li>
+<li>PHP</li>
+<li>.net</li>
+</ol>
+
+<b>Definition list</b>
+<p>Java
+       It is open language.</p>
+<p>PHP
+       It is open source</p>
+<p>NET
+       Net is also a programming language.
+</body>
+</html>

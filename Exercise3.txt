@@ -1,0 +1,34 @@
+<html>
+<head>
+
+<title>
+Exercise 3
+</title>
+</head>
+
+<body>
+<h1> Bio Data </h1>
+<p>Name: Rakesh Jayagopi</p>
+<p>DOB: 26 March 1997</p>
+<p>Gender: Male</p>
+<p>Nationality: Indian</p>
+<p>Religion: Hindu</p>
+<p>Mother Tongue: Tamil</p>
+<p>Other Languages: English, French and German</p>
+<p>Address: 15, Toyota Showroom Backside, NH32, Thilagar Nagar, Puducherry, 605006, India</p>
+<p>Email ID: rakesh.jayagopi@gmail.com</p>
+
+<h2> Objective </h2>
+<p>To use my successful working and technical experience in computer science field to contribute to an aggressive, programming/coding oriented IT firm, and to continuemy my progress as an IT professional developer</p>
+
+<h3> Educational Qualification </h3>
+<p>UG: B.Tech(Mech.Engg), SRM University Vadapalani (Passing Year:2019)</p>
+<p>HSC: The Indian School, Kingdom of Bahrain CBSE Board (Passing Year:2015)</p>
+<p>SSLC: The Indian School, Kingdom of Bahrain CBSE Board (Passing Year:2013)</p>
+
+<h4> Skills </h4>
+<p>Computer: MS-Windows, MS-Office(Word, Excel & Powerpoint),SQL Server, Visual Basic, TALLY.ERP9 with GST, Hardware Basics and Trouble Shooting</p>
+<p>Mechanical: SolidWorks, CATIA, AutoCAD, ProE along with attending in-plant training/internship workshop programs</p>
+</body>
+</html>
+
